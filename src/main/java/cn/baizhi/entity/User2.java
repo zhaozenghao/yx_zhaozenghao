@@ -7,5 +7,4 @@ public class User2 {
     private String bir;
 
     private String id;
-    private String add;
 }
