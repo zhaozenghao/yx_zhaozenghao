@@ -5,4 +5,6 @@ public class User2 {
     private Integer age;
 
     private String bir;
+
+    private String id;
 }
